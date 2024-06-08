@@ -6,3 +6,6 @@ This is a gun library for gorilla tag cheating. This is an easy way to create a 
 You call the gun so GunHandler.Gun(delegate{
 /* Your function inside of this.*/
 }, false); // change false to true if you want it to lock on to the players.
+
+## Can you use this?
+Yes you are allowed to use this put please give credits to @azora_real on discord.
