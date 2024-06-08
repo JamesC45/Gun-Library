@@ -4,5 +4,5 @@ This is a gun library for gorilla tag cheating. This is an easy way to create a 
 
 ## How to use?
 You call the gun so GunHandler.Gun(delegate{
-// Your function inside of this.
+/* Your function inside of this.*/
 }, false); // change false to true if you want it to lock on to the players.
